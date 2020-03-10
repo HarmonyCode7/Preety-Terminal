@@ -1,6 +1,5 @@
 #ifndef UNICODE_H
 #include "../../std/stdfacs.hpp"
-#endif //UNICODE_H
 
 enum {
 	DVI,
@@ -63,4 +62,4 @@ std::string color_reset()
 {
   return "\033[0m";
 }
-
+#endif //UNICODE_H
