@@ -1,0 +1,13 @@
+#ifndef UNICODE_H
+#include "../../std/stdfacs.hpp"
+#endif //UNICODE_H
+
+//color names
+enum {red, green, blue, yellow, purple, black, white};
+
+// text_format[background][red][underlined]
+
+enum 
+
+const std::string color[][256] = {
+}
